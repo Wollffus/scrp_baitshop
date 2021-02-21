@@ -1,15 +1,3 @@
-# scrp_baitshop
-RedM Fishing Shack made for redem_roleplay and redemrp_inventory v2.0
-- Get a fishing rod
-- Buy Bait
-- Do some fishing...
-- Sell Fish for $ and XP
-
-# Installation
-1. Put scrp_baitshop to your resource folder.
-2. Add "scrp_baitshop" in your "server.cfg".
-3. In redemrp_inventory/Config.lua under Config.Items ensure the items are added :
-
 Config.Items = {
 
 	 ["p_baitBread01x"] =
@@ -160,7 +148,3 @@ Config.Items = {
 - redemrp_inventory v2.0 : https://github.com/RedEM-RP/redemrp_inventory
 - redemrp_notification : https://github.com/Ktos93/redemrp_notification
 - redemrp_fishing : https://github.com/RedEM-RP/redemrp_fishing
-
-# Made by
-- RexshackGaming : Discord : https://discord.gg/8gNCwDpQPb
-- demo on youtube channel : https://www.youtube.com/channel/UCikEgGfXO-HCPxV5rYHEVbA
